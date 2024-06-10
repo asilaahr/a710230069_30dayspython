@@ -1,11 +1,11 @@
 # Membuat dictionary
 student = {
-    "name": "John",
+    "name": "regi",
     "age": 21,
     "grade": "A"
 }
 
 # Mengakses nilai
-print(student["name"])  # Output: John
+print(student["name"])  # Output: regi
 print(student["age"])   # Output: 21
 print(student["grade"]) # Output: A
